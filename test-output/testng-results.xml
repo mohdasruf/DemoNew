@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="35053" started-at="2016-09-02T20:09:14Z" finished-at="2016-09-02T20:09:49Z">
+  <suite name="Default suite" duration-ms="34715" started-at="2016-09-02T20:39:57Z" finished-at="2016-09-02T20:40:31Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="35053" started-at="2016-09-02T20:09:14Z" finished-at="2016-09-02T20:09:49Z">
+    <test name="Default test" duration-ms="34715" started-at="2016-09-02T20:39:57Z" finished-at="2016-09-02T20:40:31Z">
       <class name="com.demo.testcases.TestRunner">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demo.testcases.TestRunner@309e345f]" name="setUp" is-config="true" duration-ms="5951" started-at="2016-09-02T21:09:14Z" finished-at="2016-09-02T21:09:20Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demo.testcases.TestRunner@309e345f]" name="setUp" is-config="true" duration-ms="11202" started-at="2016-09-02T21:39:57Z" finished-at="2016-09-02T21:40:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="classInit()[pri:0, instance:com.demo.testcases.TestRunner@309e345f]" name="classInit" is-config="true" duration-ms="131" started-at="2016-09-02T21:09:20Z" finished-at="2016-09-02T21:09:20Z">
+        <test-method status="PASS" signature="classInit()[pri:0, instance:com.demo.testcases.TestRunner@309e345f]" name="classInit" is-config="true" duration-ms="337" started-at="2016-09-02T21:40:08Z" finished-at="2016-09-02T21:40:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- classInit -->
-        <test-method status="PASS" signature="Test1(java.util.Hashtable)[pri:0, instance:com.demo.testcases.TestRunner@309e345f]" name="Test1" duration-ms="28574" started-at="2016-09-02T21:09:20Z" data-provider="getData" finished-at="2016-09-02T21:09:49Z">
+        <test-method status="PASS" signature="Test1(java.util.Hashtable)[pri:0, instance:com.demo.testcases.TestRunner@309e345f]" name="Test1" duration-ms="21595" started-at="2016-09-02T21:40:08Z" data-provider="getData" finished-at="2016-09-02T21:40:30Z">
           <params>
             <param index="0">
               <value>
@@ -26,11 +26,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test1 -->
-        <test-method status="PASS" signature="classQuit()[pri:0, instance:com.demo.testcases.TestRunner@309e345f]" name="classQuit" is-config="true" duration-ms="0" started-at="2016-09-02T21:09:49Z" finished-at="2016-09-02T21:09:49Z">
+        <test-method status="PASS" signature="classQuit()[pri:0, instance:com.demo.testcases.TestRunner@309e345f]" name="classQuit" is-config="true" duration-ms="1" started-at="2016-09-02T21:40:30Z" finished-at="2016-09-02T21:40:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- classQuit -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demo.testcases.TestRunner@309e345f]" name="tearDown" is-config="true" duration-ms="239" started-at="2016-09-02T21:09:49Z" finished-at="2016-09-02T21:09:49Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demo.testcases.TestRunner@309e345f]" name="tearDown" is-config="true" duration-ms="1225" started-at="2016-09-02T21:40:30Z" finished-at="2016-09-02T21:40:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

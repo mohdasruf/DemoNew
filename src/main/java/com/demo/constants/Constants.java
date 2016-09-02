@@ -4,7 +4,7 @@ public class Constants {
 
 		public static String CONFIG_FILE_PATH =System.getProperty("user.dir")+"/src/main/java/com/demo/config/config.properties";
 		public static String MAINURL ="http://qa.yopa.uk/";
-		public static String CHROMEBINARY = "/Users/mohamedasruf/Downloads/chromedriver";
+		public static String CHROMEBINARY = System.getProperty("user.dir")+"/chromedriver";
 		final String LOG_PROPERTIES_FILE = System.getProperty("user.dir")+"/resources/log4j.properties";
 		public static String TESTCASESDATA = System.getProperty("user.dir")+"/src/main/java/com/demo/TestCases.xlsx";
 		public static final String POSTCODE="postcode";

@@ -59,3 +59,5 @@ INFO main com.demo.automation.core.Verifications - Verification PASSED: Final me
 INFO main com.demo.automation.core.BaseTestCase - logging initialised
 INFO main com.demo.automation.core.BaseTestCase - logging initialised
 INFO main com.demo.automation.core.BaseTestCase - logging initialised
+INFO main com.demo.automation.core.BaseTestCase - logging initialised
+INFO main com.demo.automation.core.BaseTestCase - logging initialised
